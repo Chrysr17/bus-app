@@ -16,7 +16,7 @@ function BusTable() {
       })
       .then((data) => {
         setBuses(data); // Actualizar el estado con los datos obtenidos
-        setLoading(false); // Dejar de mostrar el estado de carga
+        setLoading(false); // Dejar degi mostrar el estado de carga
       })
       .catch((err) => {
         setError(err.message); // Manejar errores
