@@ -2,7 +2,7 @@ Proyecto realizado con Java 17 y Spring 3 en el backend, también se usó Postma
 React 18 en el frontend para consumir la api.
 
 Si la base de datos no existe, se crea automaticamente al igual que las tablas y columnas
-(cambiar el usuario y contraseña de MySql en el archivo "ApplicationProperties" para poder acceder)
+(cambiar el usuario y contraseña de MySql en el archivo "application.properties" para poder acceder)
 
 Script para insertar datos en las tablas
 
