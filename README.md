@@ -1,6 +1,7 @@
 Si la base de datos no existe, se crea autmaticamente al igual que las tablas y columnas
 
 Script para insertar datos en las tablas
+
 -- Inserción de datos en la tabla `marca_bus`
 INSERT INTO marca (nombre) 
 VALUES 
