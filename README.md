@@ -3,6 +3,7 @@ React 18 en el frontend para consumir la api.
 
 Si la base de datos no existe, se crea automaticamente al igual que las tablas y columnas
 (cambiar el usuario y contraseña de MySql en el archivo "ApplicationProperties" para poder acceder)
+
 Script para insertar datos en las tablas
 
 -- Inserción de datos en la tabla `marca_bus`
