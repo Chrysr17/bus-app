@@ -3,6 +3,7 @@ Si la base de datos no existe, se crea autmaticamente al igual que las tablas y 
 Script para insertar datos en las tablas
 
 -- Inserción de datos en la tabla `marca_bus`
+
 INSERT INTO marca (nombre) 
 VALUES 
     ('Volvo'), 
@@ -11,6 +12,7 @@ VALUES
     ('Mercedes-Benz');
 
 -- Inserción de datos en la tabla `bus`
+
 INSERT INTO bus (numero_bus, placa, fecha_creacion, caracteristicas, marca_id, estado) 
 VALUES
     ('B001', 'ABC-123', NOW(), 'Asientos reclinables, Wi-Fi, Aire acondicionado', 1, 'Activo'),
