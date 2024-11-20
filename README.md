@@ -10,8 +10,6 @@ VALUES
     ('Fiat'), 
     ('Mercedes-Benz');
 
-SELECT * FROM marca_bus;
-
 -- Inserción de datos en la tabla `bus`
 INSERT INTO bus (numero_bus, placa, fecha_creacion, caracteristicas, marca_id, estado) 
 VALUES
