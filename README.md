@@ -1,3 +1,6 @@
+Proyecto realizado con Java 17 y Spring 3 en el backend,  se usó Postman para las pruebas y 
+React 18 en el frontend.
+
 Si la base de datos no existe, se crea autmaticamente al igual que las tablas y columnas
 
 Script para insertar datos en las tablas
