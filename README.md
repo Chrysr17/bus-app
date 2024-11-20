@@ -1,4 +1,4 @@
-Proyecto realizado con Java 17 y Spring 3 en el backend, también se usó Postman para las pruebas y 
+Proyecto realizado con Java 17 y Spring 3.3.5 en el backend, también se usó Postman para las pruebas y 
 React 18 en el frontend para consumir la api.
 
 Si la base de datos no existe, se crea automaticamente al igual que las tablas y columnas
